@@ -1,0 +1,12 @@
+
+@media(max-width: 637px) {
+    .section1{
+        display: flex;
+        flex-direction: column;
+    }
+    .section2{
+        display: flex;
+        flex-direction: column;
+    }
+
+}
